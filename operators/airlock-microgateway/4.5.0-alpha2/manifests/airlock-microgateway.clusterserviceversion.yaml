@@ -28,6 +28,7 @@ metadata:
   name: airlock-microgateway.v4.5.0-alpha2
   namespace: placeholder
 spec:
+  replaces: airlock-microgateway.v4.5.0-alpha1
   apiservicedefinitions: {}
   customresourcedefinitions:
     owned:
